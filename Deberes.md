@@ -1,9 +1,6 @@
+Deberes
+
 ## Que significa el simbolo ~
-
-
-
-
-
 
 ## Crear particiones gpt 
 
