@@ -1,12 +1,12 @@
-#MBR
+# MBR
 
-##2. Que es MBR?
+## 2. Que es MBR?
 
 Un registro de arranque principal, conocido también como registro de arranque maestro es
 el primer sector de un dispositivo de almacenamiento de datos, como un disco duro. 
  
 
-##1. Que contiene MBR en la pista cero?
+## 1. Que contiene MBR en la pista cero?
  
 -Código de máquina ( PESO = 446 bytes ) : Es el sistema de códigos directamente interpretable por un circuito microprogramable
 
